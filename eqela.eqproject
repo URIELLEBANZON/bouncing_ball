@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# urielle_oct1game
+#
+
+projectname: urielle_oct1game
+vendorid: com.mycompany
+mainmodule: com.mycompany.urielleoct1game
